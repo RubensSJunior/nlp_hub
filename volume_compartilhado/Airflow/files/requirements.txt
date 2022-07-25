@@ -1,0 +1,6 @@
+pandas
+selenium
+fake_useragent
+tweepy
+pymongo
+flask
