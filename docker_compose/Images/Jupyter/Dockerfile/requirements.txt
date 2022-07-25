@@ -1,0 +1,11 @@
+selenium
+fake_useragent
+tweepy
+pymongo
+webdriver-manager
+textblob
+spacy
+WordCloud
+unidecode
+googletrans==3.1.0a0
+pickle-mixin
