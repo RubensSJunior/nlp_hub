@@ -16,11 +16,11 @@ def retorna_termos_validos(client):
     return lista_termos
 
 def conect_twitter():
-    consumer_key = 'YeLuePCgHJ7EbE0gjaEYg7Mpw'
-    consumer_secret = 'p2RXzvVYYDZXGEfaBg02QylNdaXCIymHP9NUiu71Wat1FycwQ8'
-    acessss_token = '1383783518459731968-YDTtiI7GrIsIwccM6PgGyso35uPyki'
-    acessss_token_secret = 'IezcwWSSvXsG07gTb7hpmUr9ZLoPUh0noy8BfHnqXx1SZ'
-    bearer_token = 'AAAAAAAAAAAAAAAAAAAAANXCOgEAAAAAuqTJZrCENBe1bUhQgfil6oQLCH8%3DPxFMYdxyiW2nAuXZL1YF8hUUnQf4ErqjUq22uHGT2MR3gI153t'
+    consumer_key = ''
+    consumer_secret = ''
+    acessss_token = ''
+    acessss_token_secret = ''
+    bearer_token = ''
 
     auth = tw.OAuthHandler(consumer_key,consumer_secret)
     auth.set_access_token(acessss_token,acessss_token_secret)
